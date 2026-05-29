@@ -1,0 +1,16 @@
+{
+  "student": "demo",
+  "generatedAt": "2026-05-29T17:30:13.1326981Z",
+  "verifiedBy": "techmonster-dev",
+  "tracks": [
+    {
+      "track": "frontend",
+      "trackTitle": "Frontend Engineering",
+      "progressPct": 3,
+      "status": "on-track",
+      "verifiedCount": 2,
+      "detailUrl": "./frontend/verified-record.json"
+    }
+  ],
+  "manualEntries": []
+}
