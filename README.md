@@ -27,7 +27,7 @@ Each project is reviewed by the TechMonster AI Coach, which:
    evaluated, creating a cryptographic link to the private work.
 
 The per-track detail pages (linked above) show every project score, review date, and a link
-to the original feedback. The erified-record.json files contain machine-readable proof.
+to the original feedback. The verified-record.json files in each track folder contain machine-readable proof.
 
 ---
 
