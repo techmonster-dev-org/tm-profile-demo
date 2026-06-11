@@ -1,19 +1,22 @@
 # demo — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-05-29
+> Certified by TechMonster · Profile updated 2026-06-11
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Frontend Engineering | [░░░░░░░░░░░░░░░] 3% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Frontend Engineering | [██░░░░░░░░░░░░░] 10% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Frontend Engineering | Build a folder structure + README | 2026-05-29 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-demo-frontend/pull/4) |
-| Frontend Engineering | Calculator | 2026-05-29 | ✅  |
+| Frontend Engineering | Build a folder structure + README | 2026-06-11 | ✅  |
+| Frontend Engineering | Portfolio homepage written in Markdown | 2026-06-11 | ✅  |
+| Frontend Engineering | Clone + commit via the VS Code Source Control panel | 2026-06-11 | ✅  |
+| Frontend Engineering | Repo with a branch workflow demo | 2026-06-11 | ✅  |
+| Frontend Engineering | Push your first repo to GitHub | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
 
