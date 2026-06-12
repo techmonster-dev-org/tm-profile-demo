@@ -1,6 +1,6 @@
 {
   "student": "demo",
-  "generatedAt": "2026-06-11T21:36:07.4255842Z",
+  "generatedAt": "2026-06-12T00:02:21.7825269Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -10,6 +10,22 @@
       "status": "on-track",
       "verifiedCount": 7,
       "detailUrl": "./frontend/verified-record.json"
+    },
+    {
+      "track": "python-core",
+      "trackTitle": "Python Core (Beginner to Advanced)",
+      "progressPct": 19,
+      "status": "stuck",
+      "verifiedCount": 9,
+      "detailUrl": "./python-core/verified-record.json"
+    },
+    {
+      "track": "frontend-advanced",
+      "trackTitle": "Frontend Advanced — Next.js",
+      "progressPct": 11,
+      "status": "on-track",
+      "verifiedCount": 10,
+      "detailUrl": "./frontend-advanced/verified-record.json"
     }
   ],
   "manualEntries": []
