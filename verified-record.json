@@ -1,6 +1,6 @@
 {
   "student": "demo",
-  "generatedAt": "2026-06-12T00:55:06.6384293Z",
+  "generatedAt": "2026-06-12T15:42:25.6331100Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -34,6 +34,22 @@
       "status": "stuck",
       "verifiedCount": 8,
       "detailUrl": "./c-systems/verified-record.json"
+    },
+    {
+      "track": "cpp-from-zero",
+      "trackTitle": "C++ From Zero (Absolute Beginner to Modern C++)",
+      "progressPct": 12,
+      "status": "stuck",
+      "verifiedCount": 6,
+      "detailUrl": "./cpp-from-zero/verified-record.json"
+    },
+    {
+      "track": "dsa-cpp",
+      "trackTitle": "Data Structures & Algorithms in C++ (Interview-Grade)",
+      "progressPct": 15,
+      "status": "stuck",
+      "verifiedCount": 7,
+      "detailUrl": "./dsa-cpp/verified-record.json"
     }
   ],
   "manualEntries": []
