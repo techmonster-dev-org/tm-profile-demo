@@ -1,14 +1,14 @@
 {
   "student": "demo",
-  "generatedAt": "2026-06-12T00:29:02.6232910Z",
+  "generatedAt": "2026-06-12T00:55:06.6384293Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
       "track": "frontend",
       "trackTitle": "Frontend Engineering",
-      "progressPct": 10,
+      "progressPct": 8,
       "status": "on-track",
-      "verifiedCount": 7,
+      "verifiedCount": 6,
       "detailUrl": "./frontend/verified-record.json"
     },
     {
