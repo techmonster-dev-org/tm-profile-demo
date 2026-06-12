@@ -9,16 +9,17 @@
 | Frontend Engineering | [██░░░░░░░░░░░░░] 10% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 19% | 🟡 Needs a Nudge | [→ Full breakdown](./python-core/README.md) |
 | Frontend Advanced — Next.js | [██░░░░░░░░░░░░░] 11% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| C & Systems Programming (Zero to the Kernel) | [███░░░░░░░░░░░░] 17% | 🟡 Needs a Nudge | [→ Full breakdown](./c-systems/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Frontend Advanced — Next.js | Implement dark/light theme with persistence and theme switching | 2026-06-12 | ✅  |
-| Frontend Advanced — Next.js | Build toast notification system for success, error, and info messages | 2026-06-12 | ✅  |
-| Frontend Advanced — Next.js | Create loading skeletons, spinners, and loading UI components | 2026-06-12 | ✅  |
-| Frontend Advanced — Next.js | Implement error handling with React Error Boundary and Next.js error pages | 2026-06-12 | ✅  |
-| Frontend Advanced — Next.js | Build reusable layouts with header, footer, sidebar, and nested layouts | 2026-06-11 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Build a complete wc-style line/word/character counter using argc/argv, fopen/fgets/fclose, multi-function design, error handling with stderr, and a Makefile — synthesizing every concept from Phase 1 into a real Unix-quality command-line tool. | 2026-06-12 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Declare, initialize, and iterate 1D and 2D arrays, understand array decay to pointer, verify row-major memory layout, and observe why C performs no bounds checking — and how AddressSanitizer catches the resulting bugs. | 2026-06-12 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster. | 2026-06-12 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage. | 2026-06-12 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite. | 2026-06-12 | ✅  |
 
 ## How This Profile Is Verified
 
