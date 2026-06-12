@@ -1,22 +1,24 @@
 # demo — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-06-11
+> Certified by TechMonster · Profile updated 2026-06-12
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
 | Frontend Engineering | [██░░░░░░░░░░░░░] 10% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 19% | 🟡 Needs a Nudge | [→ Full breakdown](./python-core/README.md) |
+| Frontend Advanced — Next.js | [██░░░░░░░░░░░░░] 11% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Frontend Engineering | Build a folder structure + README | 2026-06-11 | ✅  |
-| Frontend Engineering | Portfolio homepage written in Markdown | 2026-06-11 | ✅  |
-| Frontend Engineering | Clone + commit via the VS Code Source Control panel | 2026-06-11 | ✅  |
-| Frontend Engineering | Repo with a branch workflow demo | 2026-06-11 | ✅  |
-| Frontend Engineering | Push your first repo to GitHub | 2026-06-11 | ✅  |
+| Frontend Advanced — Next.js | Implement dark/light theme with persistence and theme switching | 2026-06-12 | ✅  |
+| Frontend Advanced — Next.js | Build toast notification system for success, error, and info messages | 2026-06-12 | ✅  |
+| Frontend Advanced — Next.js | Create loading skeletons, spinners, and loading UI components | 2026-06-12 | ✅  |
+| Frontend Advanced — Next.js | Implement error handling with React Error Boundary and Next.js error pages | 2026-06-12 | ✅  |
+| Frontend Advanced — Next.js | Build reusable layouts with header, footer, sidebar, and nested layouts | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
 
