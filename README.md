@@ -6,7 +6,7 @@
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Frontend Engineering | [██░░░░░░░░░░░░░] 10% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Frontend Engineering | [█░░░░░░░░░░░░░░] 8% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 19% | 🟡 Needs a Nudge | [→ Full breakdown](./python-core/README.md) |
 | Frontend Advanced — Next.js | [██░░░░░░░░░░░░░] 11% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | C & Systems Programming (Zero to the Kernel) | [███░░░░░░░░░░░░] 17% | 🟡 Needs a Nudge | [→ Full breakdown](./c-systems/README.md) |
@@ -19,7 +19,7 @@
 | C & Systems Programming (Zero to the Kernel) | Declare, initialize, and iterate 1D and 2D arrays, understand array decay to pointer, verify row-major memory layout, and observe why C performs no bounds checking — and how AddressSanitizer catches the resulting bugs. | 2026-06-12 | ✅  |
 | C & Systems Programming (Zero to the Kernel) | Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster. | 2026-06-12 | ✅  |
 | C & Systems Programming (Zero to the Kernel) | Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage. | 2026-06-12 | ✅  |
-| C & Systems Programming (Zero to the Kernel) | Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite. | 2026-06-12 | ✅  |
+| C & Systems Programming (Zero to the Kernel) | Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library. | 2026-06-12 | ✅  |
 
 ## How This Profile Is Verified
 
