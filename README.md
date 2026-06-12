@@ -10,16 +10,18 @@
 | Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 19% | 🟡 Needs a Nudge | [→ Full breakdown](./python-core/README.md) |
 | Frontend Advanced — Next.js | [██░░░░░░░░░░░░░] 11% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | C & Systems Programming (Zero to the Kernel) | [███░░░░░░░░░░░░] 17% | 🟡 Needs a Nudge | [→ Full breakdown](./c-systems/README.md) |
+| C++ From Zero (Absolute Beginner to Modern C++) | [██░░░░░░░░░░░░░] 12% | 🟡 Needs a Nudge | [→ Full breakdown](./cpp-from-zero/README.md) |
+| Data Structures & Algorithms in C++ (Interview-Grade) | [██░░░░░░░░░░░░░] 15% | 🟡 Needs a Nudge | [→ Full breakdown](./dsa-cpp/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| C & Systems Programming (Zero to the Kernel) | Build a complete wc-style line/word/character counter using argc/argv, fopen/fgets/fclose, multi-function design, error handling with stderr, and a Makefile — synthesizing every concept from Phase 1 into a real Unix-quality command-line tool. | 2026-06-12 | ✅  |
-| C & Systems Programming (Zero to the Kernel) | Declare, initialize, and iterate 1D and 2D arrays, understand array decay to pointer, verify row-major memory layout, and observe why C performs no bounds checking — and how AddressSanitizer catches the resulting bugs. | 2026-06-12 | ✅  |
-| C & Systems Programming (Zero to the Kernel) | Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster. | 2026-06-12 | ✅  |
-| C & Systems Programming (Zero to the Kernel) | Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage. | 2026-06-12 | ✅  |
-| C & Systems Programming (Zero to the Kernel) | Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library. | 2026-06-12 | ✅  |
+| Data Structures & Algorithms in C++ (Interview-Grade) | Synthesise all Phase 1 techniques — two-pointer, sliding window, prefix sums, and matrix operations — into a single CLI toolkit with a complexity reference table, a benchmark, and a problem-triage decision guide. | 2026-06-12 | ✅  |
+| Data Structures & Algorithms in C++ (Interview-Grade) | Solve fixed-window and variable-window subarray problems — max-sum of size-k subarray, longest unique substring, minimum-length sum window — in O(n) using a sliding window, and contrast with O(n²) naive solutions. | 2026-06-12 | ✅  |
+| Data Structures & Algorithms in C++ (Interview-Grade) | Implement four classic two-pointer problems — reverse in place, pair-sum on sorted array, remove duplicates, and palindrome check — and prove each is O(n) vs the O(n²) naive approach. | 2026-06-12 | ✅  |
+| Data Structures & Algorithms in C++ (Interview-Grade) | Build a minimal MyVector<T> from scratch with new[]/delete[] and capacity doubling, then prove that push_back is amortized O(1) using the aggregate counting method. | 2026-06-12 | ✅  |
+| Data Structures & Algorithms in C++ (Interview-Grade) | Master the fundamental array traversal patterns — find max/min, count, accumulate, and in-place modify — using std::vector, and observe why contiguous memory and cache-friendliness make arrays fast in practice. | 2026-06-12 | ✅  |
 
 ## How This Profile Is Verified
 
